@@ -10,4 +10,4 @@ React demo Investment calculator
 - Clone the repo
 - Run command `npm install`
 - Start the server: `npm run dev`
-- View in postman: <http://localhost:8080/api>
+- View in browser: <http://localhost:5173>
